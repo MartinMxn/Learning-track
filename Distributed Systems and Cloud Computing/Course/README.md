@@ -1,0 +1,1 @@
+OneNote: https://onedrive.live.com/redir?resid=C91D94DC7AE2C016%21152&authkey=%21ACzV_K1lVd1ZTUw&page=View&wd=target%28Course-Distributed%20Systems.one%7C0dff719f-9be0-574f-900b-b86de303967c%2FCourse%20Summary%7C39154d31-e4d5-cc4d-8a2b-8dbd89bf6e26%2F%29
