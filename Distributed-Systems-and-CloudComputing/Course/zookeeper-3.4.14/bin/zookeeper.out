@@ -1,0 +1,40 @@
+2020-01-13 21:58:29,658 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../conf/zoo.cfg
+2020-01-13 21:58:29,663 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2020-01-13 21:58:29,663 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2020-01-13 21:58:29,663 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2020-01-13 21:58:29,664 [myid:] - WARN  [main:QuorumPeerMain@116] - Either no config or no quorum defined in config, running  in standalone mode
+2020-01-13 21:58:29,673 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../conf/zoo.cfg
+2020-01-13 21:58:29,673 [myid:] - INFO  [main:ZooKeeperServerMain@98] - Starting server
+2020-01-13 21:58:34,688 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.14-4c25d480e66aadd371de8bd2fd8da255ac140bcf, built on 03/06/2019 16:18 GMT
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=192.168.1.5
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_181
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../zookeeper-server/target/classes:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../build/classes:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../zookeeper-server/target/lib/*.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../build/lib/*.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/slf4j-log4j12-1.7.25.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/slf4j-api-1.7.25.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/netty-3.10.6.Final.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/log4j-1.2.17.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/jline-0.9.94.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../lib/audience-annotations-0.5.0.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../zookeeper-3.4.14.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../zookeeper-server/src/main/resources/lib/*.jar:/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin/../conf:
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/Users/xuanningmeng/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2020-01-13 21:58:34,689 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/var/folders/m8/ly2stvb957x3422b1rvtzph00000gn/T/
+2020-01-13 21:58:34,690 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Mac OS X
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=x86_64
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=10.14.6
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=xuanningmeng
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/Users/xuanningmeng
+2020-01-13 21:58:34,691 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/Users/xuanningmeng/Desktop/Projects/Learning-track/Distributed-Systems-and-CloudComputing/Course/zookeeper-3.4.14/bin
+2020-01-13 21:58:34,710 [myid:] - INFO  [main:ZooKeeperServer@836] - tickTime set to 2000
+2020-01-13 21:58:34,710 [myid:] - INFO  [main:ZooKeeperServer@845] - minSessionTimeout set to -1
+2020-01-13 21:58:34,710 [myid:] - INFO  [main:ZooKeeperServer@854] - maxSessionTimeout set to -1
+2020-01-13 21:58:34,727 [myid:] - INFO  [main:ServerCnxnFactory@117] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2020-01-13 21:58:34,751 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2020-01-13 21:58:37,625 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:63251
+2020-01-13 21:58:37,634 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@949] - Client attempting to establish new session at /127.0.0.1:63251
+2020-01-13 21:58:37,637 [myid:] - INFO  [SyncThread:0:FileTxnLog@216] - Creating new log file: log.1
+2020-01-13 21:58:37,652 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@694] - Established session 0x1000f2f026e0000 with negotiated timeout 30000 for client /127.0.0.1:63251
+2020-01-13 22:37:39,493 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /127.0.0.1:63854
+2020-01-13 22:37:39,500 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@949] - Client attempting to establish new session at /127.0.0.1:63854
+2020-01-13 22:37:39,503 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@694] - Established session 0x1000f2f026e0001 with negotiated timeout 4000 for client /127.0.0.1:63854
+2020-01-13 22:37:59,158 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000f2f026e0001, likely client has closed socket
+2020-01-13 22:37:59,160 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /127.0.0.1:63854 which had sessionid 0x1000f2f026e0001
+2020-01-13 22:38:03,715 [myid:] - INFO  [SessionTracker:ZooKeeperServer@355] - Expiring session 0x1000f2f026e0001, timeout of 4000ms exceeded
+2020-01-13 22:38:03,716 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000f2f026e0001
+2020-01-13 22:38:06,455 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000f2f026e0000
+2020-01-13 22:38:06,459 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /127.0.0.1:63251 which had sessionid 0x1000f2f026e0000
