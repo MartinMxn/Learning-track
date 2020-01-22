@@ -11,12 +11,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final wordPair = WordPair.random();
-
+    
     return MaterialApp(
       title: 'Inifite Generator',
       home: RandomWords()
     );
   }
+  
 }
 
 class RandomWordsState extends State<RandomWords> {
