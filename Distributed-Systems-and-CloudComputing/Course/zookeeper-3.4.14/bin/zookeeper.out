@@ -66,3 +66,12 @@
 2020-01-23 16:32:12,343 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /0:0:0:0:0:0:0:1:57215 which had sessionid 0x1000429094c0004
 2020-01-23 16:32:16,903 [myid:] - INFO  [SessionTracker:ZooKeeperServer@355] - Expiring session 0x1000429094c0004, timeout of 4000ms exceeded
 2020-01-23 16:32:16,903 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000429094c0004
+2020-01-25 04:09:25,041 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000429094c0005, likely client has closed socket
+2020-01-25 04:09:25,088 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /0:0:0:0:0:0:0:1:57246 which had sessionid 0x1000429094c0005
+2020-01-25 04:09:26,470 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@222] - Accepted socket connection from /0:0:0:0:0:0:0:1:50555
+2020-01-25 04:09:26,475 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@942] - Client attempting to renew session 0x1000429094c0005 at /0:0:0:0:0:0:0:1:50555
+2020-01-25 04:09:26,477 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@694] - Established session 0x1000429094c0005 with negotiated timeout 30000 for client /0:0:0:0:0:0:0:1:50555
+2020-01-27 17:10:23,190 [myid:] - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@376] - Unable to read additional data from client sessionid 0x1000429094c0005, likely client has closed socket
+2020-01-27 17:10:23,199 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1056] - Closed socket connection for client /0:0:0:0:0:0:0:1:50555 which had sessionid 0x1000429094c0005
+2020-01-27 17:10:52,261 [myid:] - INFO  [SessionTracker:ZooKeeperServer@355] - Expiring session 0x1000429094c0005, timeout of 30000ms exceeded
+2020-01-27 17:10:52,266 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x1000429094c0005
